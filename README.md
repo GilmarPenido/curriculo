@@ -1,5 +1,5 @@
 # **Gilmar Penido de Souza**
-Brasileiro, solteiro – 29 anos (02/02/1989)  
+Brasileiro, solteiro – 29 anos
 
 Lindeia – Belo Horizonte – MG  
 
@@ -10,6 +10,7 @@ E-mail: [gilmar.penido@gmail.com](mailto:gilmar.penido@gmail.com)
 ------------------
 
 **Formação**
+
 Superior incompleto
 
 Sistemas de informação - 8° período
@@ -36,11 +37,12 @@ Desenvolvimento / programação
 
 ## **Experiência Profissional**
 
-**Empresa:** Viajar Tursimo – Out/2017 a Atual
+**Empresa:** Viajar Turismo – Out/2017 a Atual
 
 **Cargo:** Programador Web.
 
 **Principais atividades:**
+
   >  Desenvolvimento de sistemas web, utilizando api rest em ZendFramework
 
   >  Desenvolvimento de api  graphql em node utilizando framework express
