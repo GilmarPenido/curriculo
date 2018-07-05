@@ -7,7 +7,7 @@ Telefone: (31) 98501-2567/ 3382-8987
 
 E-mail: [gilmar.penido@gmail.com](mailto:gilmar.penido@gmail.com)
 
-==================
+------------------
 
 **Formação**
 Superior incompleto
@@ -19,6 +19,7 @@ Pontifícia Universidade Católica de Minas Gerais, Campos Barreiro.
 ------------------
 
 **Cargo Pretendido** 
+
 Desenvolvimento / programação
 
 ------------------
