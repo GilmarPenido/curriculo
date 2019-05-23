@@ -1,5 +1,5 @@
 # **Gilmar Penido de Souza**
-Brasileiro, solteiro – 29 anos
+Brasileiro, solteiro – 30 anos
 
 Lindeia – Belo Horizonte – MG  
 
