@@ -37,7 +37,7 @@ Desenvolvimento / programação
 
 ## **Experiência Profissional**
 
-**Empresa:** Viajar Turismo – Out/2017 a Atual
+**Empresa:** Viajar Turismo – Out/2016 a Atual
 
 **Cargo:** Programador Web.
 
