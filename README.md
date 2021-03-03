@@ -1,11 +1,11 @@
 # **Gilmar Penido de Souza**
-Brasileiro, solteiro – 30 anos
+Brasileiro, solteiro – 32 anos
 
 Lindeia – Belo Horizonte – MG  
 
-Telefone: (31) 98501-2567/ 3382-8987 
+Telefone: (31) 920029459 
 
-E-mail: [gilmar.penido@gmail.com](mailto:gilmar.penido@gmail.com)
+E-mail: [gilmarpenido@gmail.com](mailto:gilmarpenido@gmail.com)
 
 ------------------
 
