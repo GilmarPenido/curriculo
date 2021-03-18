@@ -25,19 +25,43 @@ Desenvolvimento / programação
 
 ------------------
 
-**Conhecimentos Gerais:** CSS, HTML, SQL, Orientação a Objetos, MVC, UML.
+**Linguagens e Tecnologias:** JavaScript, PHP, GIT, CSS, HTML, SQL, PYTHON, Amazon S3, Amazon EC2, Amazon kinesis
 
-**Linguagens:** JavaScript, PHP, Java, C, C++, C#.
+**Conhecimentos Arquiteturais:** Orientação a Objetos, MVC, UML, Padrões de Projeto, Docker.
 
 **Banco de dados:** SQL, Mysql, Postgresql.
 
-**Frameworks:** AngularJS, Angular, Express, Cakephp, Zend, JQuery, Bootstrap.
+**Frameworks e Ferramntas:** Scrum, GitFlow, AngularJS, Angular, Express, Cakephp, Zend, JQuery, Bootstrap, React,React Native.
 
 ------------------
 
+## **Ultimos Projetos**
+
+**Sistema realtime de Quiz de perguntas**
+
+Front end React, back end node (express + socket.io), banco de dados mysql em docker, 
+estrutura de git monorepo.   
+
+**Sistema de controle de milhas**
+
+Front end em angular, backend em node com api graphql, banco de dados mysql, controle de arquivos via amazon s3. 
+
 ## **Experiência Profissional**
 
-**Empresa:** Viajar Turismo – Out/2016 a Atual
+**Empresa:** Seminovos LTDA Out/2019 Mai/2020
+
+**Cargo:** Programador Back End.
+
+**Principais atividades:**
+
+  >  Desenvolvimento mobile com react native
+  
+  >  Adição de novas funcionalidades em sistema PHP ZendFramework 2
+
+------------------
+
+
+**Empresa:** Viajar Turismo – Out/2016 a set/2019
 
 **Cargo:** Programador Web.
 
