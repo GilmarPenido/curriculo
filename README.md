@@ -11,8 +11,6 @@ E-mail: [gilmarpenido@gmail.com](mailto:gilmarpenido@gmail.com)
 
 **Formação**
 
-Superior incompleto
-
 Sistemas de informação - 8° período
 
 Pontifícia Universidade Católica de Minas Gerais, Campos Barreiro.
@@ -21,29 +19,34 @@ Pontifícia Universidade Católica de Minas Gerais, Campos Barreiro.
 
 **Cargo Pretendido** 
 
-Desenvolvimento / programação
+Programador Sênior / Analista de Sistemas
 
 ------------------
 
-**Linguagens e Tecnologias:** JavaScript, PHP, GIT, CSS, HTML, SQL, PYTHON, Amazon S3, Amazon EC2, Amazon kinesis
+**Linguagens e Tecnologias:** JavaScript, Typescript, PHP, GIT, CSS, HTML, SQL, PYTHON, Amazon S3, Amazon EC2, Amazon kinesis
 
 **Conhecimentos Arquiteturais:** Orientação a Objetos, MVC, UML, Padrões de Projeto, Docker.
 
 **Banco de dados:** SQL, Mysql, Postgresql.
 
-**Frameworks e Ferramntas:** Scrum, GitFlow, AngularJS, Angular, Express, Cakephp, Zend, JQuery, Bootstrap, Materialize, React,React Native.
+**Frameworks e Ferramentas:** Scrum, GitFlow, AngularJS, Angular, Express, Cakephp, Zend, JQuery, Bootstrap, Materialize, React,React Native.
 
 ------------------
 
 ## **Ultimos Projetos**
 
-**Sistema realtime de quiz de perguntas**
+**Sistema realtime de quiz**
 
-Front end React, back end node (express + socket.io), banco de dados mysql em docker,    
+Front-end React, back-end node (express + socket.io), banco de dados mysql em docker,    
 
 **Sistema de controle de milhas**
 
-Front end em angular, backend em node com api graphql, banco de dados mysql, controle de arquivos via amazon s3. 
+Front-end em angular, back-end em node com api graphql, banco de dados mysql, controle de arquivos via amazon s3. 
+
+
+## **Aividade Aual**
+
+Trabalho autonômo em projetos de desenvolviemento de sistemas web, mobile. 
 
 ## **Experiência Profissional**
 
@@ -70,7 +73,7 @@ Front end em angular, backend em node com api graphql, banco de dados mysql, con
 
   >  Desenvolvimento de api  graphql em node utilizando framework express
 
-  >  Desenvolvimento de frontend em angularjs e angular 6
+  >  Desenvolvimento de front-end em angularjs e angular 6
 
   >  Banco de Dados Mysql
 
