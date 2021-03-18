@@ -46,7 +46,7 @@ Front-end em angular, back-end em node com api graphql, banco de dados mysql, co
 
 ## **Aividade Aual**
 
-Trabalho autonômo em projetos de desenvolviemento de sistemas web, mobile. 
+Trabalho autônomo em projetos por demanda envolvendo desenvolvimento de software mobile/plataformas cloud.
 
 ## **Experiência Profissional**
 
