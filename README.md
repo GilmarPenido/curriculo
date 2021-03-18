@@ -31,16 +31,15 @@ Desenvolvimento / programação
 
 **Banco de dados:** SQL, Mysql, Postgresql.
 
-**Frameworks e Ferramntas:** Scrum, GitFlow, AngularJS, Angular, Express, Cakephp, Zend, JQuery, Bootstrap, React,React Native.
+**Frameworks e Ferramntas:** Scrum, GitFlow, AngularJS, Angular, Express, Cakephp, Zend, JQuery, Bootstrap, Materialize, React,React Native.
 
 ------------------
 
 ## **Ultimos Projetos**
 
-**Sistema realtime de Quiz de perguntas**
+**Sistema realtime de quiz de perguntas**
 
-Front end React, back end node (express + socket.io), banco de dados mysql em docker, 
-estrutura de git monorepo.   
+Front end React, back end node (express + socket.io), banco de dados mysql em docker,    
 
 **Sistema de controle de milhas**
 
@@ -56,7 +55,7 @@ Front end em angular, backend em node com api graphql, banco de dados mysql, con
 
   >  Desenvolvimento mobile com react native
   
-  >  Adição de novas funcionalidades em sistema PHP ZendFramework 2
+  >  Adição de novas funcionalidades e manutenção de sistema PHP ZendFramework 2
 
 ------------------
 
