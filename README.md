@@ -35,9 +35,9 @@ Programador Sênior / Analista de Sistemas
 
 ## **Ultimos Projetos**
 
-**Aplicativo de Inventário de Estoque
+**Aplicativo de Inventário de Estoque**
 
-Aplicativo para controle de estoque desenvolvido com react native.
+Aplicativo para inventário de estoque desenvolvido com react native.
 
 **Sistema realtime de quiz**
 
