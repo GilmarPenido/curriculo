@@ -35,16 +35,20 @@ Programador Sênior / Analista de Sistemas
 
 ## **Ultimos Projetos**
 
+**Aplicativo de Inventário de Estoque
+
+Aplicativo para controle de estoque desenvolvido com react native.
+
 **Sistema realtime de quiz**
 
-Front-end React, back-end node (express + socket.io), banco de dados mysql em docker,    
+Front-end React, back-end node (express + socket.io), banco de dados mysql em docker.    
 
 **Sistema de controle de milhas**
 
 Front-end em angular, back-end em node com api graphql, banco de dados mysql, controle de arquivos via amazon s3. 
 
 
-## **Aividade Aual**
+## **Atividade Atual**
 
 Trabalho autônomo em projetos por demanda envolvendo desenvolvimento de software mobile/plataformas cloud.
 
