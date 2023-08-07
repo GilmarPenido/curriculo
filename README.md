@@ -1,5 +1,5 @@
 # **Gilmar Penido de Souza**
-Brasileiro, solteiro – 32 anos
+Brasileiro, solteiro – 34 anos
 
 Lindeia – Belo Horizonte – MG  
 
@@ -54,7 +54,7 @@ Trabalho autônomo em projetos por demanda envolvendo desenvolvimento de softwar
 
 ## **Experiência Profissional**
 
-**Empresa:** Seminovos LTDA Out/2019 Mai/2020
+**Empresa:** Seminovos LTDA Out/2019 Mai/2020  ˜  Dez/2022 Jul/2023
 
 **Cargo:** Programador Back End.
 
