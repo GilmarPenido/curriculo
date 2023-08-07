@@ -3,7 +3,7 @@ Brasileiro, solteiro – 34 anos
 
 Lindeia – Belo Horizonte – MG  
 
-Telefone: (31) 920029459 
+Telefone: (31) 99836-0713 
 
 E-mail: [gilmarpenido@gmail.com](mailto:gilmarpenido@gmail.com)
 
