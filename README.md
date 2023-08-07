@@ -47,11 +47,6 @@ Front-end React, back-end node (express + socket.io), banco de dados mysql em do
 
 Front-end em angular, back-end em node com api graphql, banco de dados mysql, controle de arquivos via amazon s3. 
 
-
-## **Atividade Atual**
-
-Trabalho autônomo em projetos por demanda envolvendo desenvolvimento de software mobile/plataformas cloud.
-
 ## **Experiência Profissional**
 
 **Empresa:** Seminovos LTDA Out/2019 Mai/2020  ˜  Dez/2022 Jul/2023
