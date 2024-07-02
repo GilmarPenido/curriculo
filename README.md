@@ -1,5 +1,5 @@
 # **Gilmar Penido de Souza**
-Brasileiro, solteiro – 34 anos
+Brasileiro, casado – 35 anos
 
 Lindeia – Belo Horizonte – MG  
 
@@ -49,6 +49,8 @@ Front-end em angular, back-end em node com api graphql, banco de dados mysql, co
 
 ## **Experiência Profissional**
 
+
+
 **Empresa:** Seminovos LTDA Out/2019 Mai/2020  ˜  Dez/2022 Jul/2023
 
 **Cargo:** Programador Back End.
@@ -62,19 +64,19 @@ Front-end em angular, back-end em node com api graphql, banco de dados mysql, co
 ------------------
 
 
-**Empresa:** Viajar Turismo – Out/2016 a set/2019
+**Empresa:** Solutii Sistemas – Jan/2024 a atual
 
-**Cargo:** Programador Web.
+**Cargo:** Desenvolvedor React.
 
 **Principais atividades:**
 
-  >  Desenvolvimento de sistemas web, utilizando api rest em ZendFramework
+  >  Desenvolvimento de sistemas web, utilizando api rest em React
 
-  >  Desenvolvimento de api  graphql em node utilizando framework express
+  >  Desenvolvimento de api  em node utilizando framework express
 
-  >  Desenvolvimento de front-end em angularjs e angular 6
+  >  Desenvolvimento de apps mobile utilizando react native
 
-  >  Banco de Dados Mysql
+  >  Banco de Dados SQl Server/ PostgresSQl / Mysql
 
 ------------------
 
