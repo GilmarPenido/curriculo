@@ -49,21 +49,6 @@ Front-end em angular, back-end em node com api graphql, banco de dados mysql, co
 
 ## **Experiência Profissional**
 
-
-
-**Empresa:** Seminovos LTDA Out/2019 Mai/2020  ˜  Dez/2022 Jul/2023
-
-**Cargo:** Programador Back End.
-
-**Principais atividades:**
-
-  >  Desenvolvimento mobile com react native
-  
-  >  Adição de novas funcionalidades e manutenção de sistema PHP ZendFramework 2
-
-------------------
-
-
 **Empresa:** Solutii Sistemas – Jan/2024 a atual
 
 **Cargo:** Desenvolvedor React.
@@ -77,6 +62,31 @@ Front-end em angular, back-end em node com api graphql, banco de dados mysql, co
   >  Desenvolvimento de apps mobile utilizando react native
 
   >  Banco de Dados SQl Server/ PostgresSQl / Mysql
+
+------------------
+
+**Empresa:** Seminovos LTDA Out/2019 Mai/2020  ˜  Dez/2022 Jul/2023
+
+**Cargo:** Programador Back End.
+
+**Principais atividades:**
+
+  >  Desenvolvimento mobile com react native
+  
+  >  Adição de novas funcionalidades e manutenção de sistema PHP ZendFramework 2
+
+------------------
+
+**Empresa:** Viajar Turismo – Out/2016 a set/2019
+
+**Cargo:** Programador Web.
+
+**Principais atividades:**
+
+  >  Desenvolvimento de sistemas web, utilizando api rest em ZendFramework
+  >  Desenvolvimento de api  graphql em node utilizando framework express
+  >  Desenvolvimento de front-end em angularjs e angular 6
+  >  Banco de Dados Mysql
 
 ------------------
 
