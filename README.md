@@ -1,7 +1,7 @@
 # **Gilmar Penido de Souza**
 Brasileiro, casado – 35 anos
 
-Lindeia – Belo Horizonte – MG  
+Lindéia – Belo Horizonte – MG  
 
 Telefone: (31) 99836-0713 
 
@@ -33,7 +33,7 @@ Programador Sênior / Analista de Sistemas
 
 ------------------
 
-## **Ultimos Projetos**
+## **Últimos Projetos**
 
 **Aplicativo de Inventário de Estoque**
 
