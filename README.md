@@ -19,7 +19,7 @@ Pontifícia Universidade Católica de Minas Gerais, Campos Barreiro.
 
 **Cargo Pretendido** 
 
-Programador Sênior / Analista de Sistemas
+Desenvolvedor Front-end / Full Stack / Analista de Sistemas
 
 ------------------
 
