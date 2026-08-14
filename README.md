@@ -1,5 +1,5 @@
 # **Gilmar Penido de Souza**
-Brasileiro, casado – 36 anos
+Brasileiro, casado – 37 anos
 
 Lindéia – Belo Horizonte – MG  
 
@@ -23,43 +23,43 @@ Desenvolvedor Front-end / Full Stack / Analista de Sistemas
 
 ------------------
 
-**Linguagens e Tecnologias:** JavaScript, Typescript, PHP, GIT, CSS, HTML, SQL, PYTHON, Amazon S3, Amazon EC2, Amazon kinesis
+**Linguagens e Tecnologias:** ADVPL, JavaScript, Typescript, PHP, GIT, CSS, HTML, SQL, PYTHON, Amazon EC2/SES/S3/kinesis/
 
 **Conhecimentos Arquiteturais:** Orientação a Objetos, MVC, UML, Padrões de Projeto, Docker.
 
-**Banco de dados:** SQL, Mysql, Postgresql.
+**Banco de dados:** SQL, Mysql, Postgresql, SqlServer, Mongo.
 
-**Frameworks e Ferramentas:** Scrum, GitFlow, AngularJS, Angular, Express, Cakephp, Zend, JQuery, Bootstrap, Materialize, React,React Native.
+**Frameworks e Ferramentas:** Scrum, GitFlow, Angular, Express, React,React Native.
 
 ------------------
 
 ## **Últimos Projetos**
 
-**Aplicativo de Inventário de Estoque**
+**Tela customizada em advpl para montagem de carga CB7/CB8**
 
-Aplicativo para inventário de estoque desenvolvido com react native.
+**Aplicativo de Vendas Integrado com Protheus**
+
+**Aplicativo de Montagem de carga, etiquetas customizadas para impressora zebra e processo customizado de expedição**
+
+**Aplicativo, Apis e telas em advpl para projeto de entrada de notas fiscais / pesagem em balança de produtos / apontamento de produção / expedição de materiais / impressão de etiquetas**
+
+**Sistema de controle de apontamentos para analistas em react**
 
 **Sistema realtime de quiz**
 
-Front-end React, back-end node (express + socket.io), banco de dados mysql em docker.    
-
-**Sistema de controle de milhas**
-
-Front-end em angular, back-end em node com api graphql, banco de dados mysql, controle de arquivos via amazon s3. 
+**Sistema de controle de milhas aéreas**
 
 ## **Experiência Profissional**
 
 **Empresa:** Solutii Sistemas – Jan/2024 a atual
 
-**Cargo:** Desenvolvedor React.
+**Cargo:** Desenvolvedor ADVPL/React.
 
 **Principais atividades:**
 
-  >  Desenvolvimento de sistemas web, utilizando api rest em React
+  >  Desenvolvimento e manutenção de telas customizadas, relatórios, pontos de entrada e apis em ADVPL
 
-  >  Desenvolvimento de api  em node utilizando framework express
-
-  >  Desenvolvimento de apps mobile utilizando react native
+  >  Desenvolvimento de sistemas web e aplicativos em react e react native
 
   >  Banco de Dados SQl Server/ PostgresSQl / Mysql
 
@@ -85,8 +85,8 @@ Front-end em angular, back-end em node com api graphql, banco de dados mysql, co
 
   >  Desenvolvimento de sistemas web, utilizando api rest em ZendFramework
   >  Desenvolvimento de api  graphql em node utilizando framework express
-  >  Desenvolvimento de front-end em angularjs e angular 6
-  >  Banco de Dados Mysql
+  >  Desenvolvimento de front-end em angular
+  >  Banco de Dados Mysql, postgress
 
 ------------------
 
